@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoveaSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="proceed">Send</string>
+    <string name="cancel">Not now</string>
+    <string name="app_invites">App Invites</string>
+    <string name="headerinfo">Would you like to refer this app to recommended contacts?</string>
+    <string name="desclaimerText">**Invites are sent via SMS, Standard charges apply</string>
+    <string name="invitemsg">You\'ll love this cool app, powered by Fovea! Checkout https://example.com/getapp</string>
+    <string name="noRecommendationsMsg">Sorry, no recommendations available yet. Please try it later!</string>
+</resources>
