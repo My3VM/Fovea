@@ -191,4 +191,4 @@ Log.v("Sample", exception.getLocalizedMessage());
 }
 ```
 
-[dill]: <http://www.cogknit.com/fovea>
+[dill]: <http://fovea.cogknit.com/>
